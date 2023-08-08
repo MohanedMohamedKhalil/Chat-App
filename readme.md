@@ -1,7 +1,10 @@
 <br />
 <div align="center">
   <h1 align="center">Live Chat App</h1>
-  <q align="center"> By : Mohaned Mohamed</q>
+  <q align="center">
+  <img src="./client-side/public/favicon-32x32.png" style="width:200px">
+   By : Mohaned Mohamed
+   </q>
 </div>
 
 <details>
@@ -29,8 +32,10 @@
 
 ## About The Project
 
+![Practice Page](./Chat.png)
+
 Live Chat App where you can send and recieve messages from different users at the same room
-made by React , NodeJs , Sock.io
+made by React , NodeJs , Socket.io
 
 ### Technologies
 
@@ -38,6 +43,7 @@ Here is what you need to run this app .
 
 - [![Node.js][Node.com]](Node-url)
 - [![React][React.js]][React-url]
+- [![Socket.IO][Socket.io]][socket-url]
 
 <!-- GETTING STARTED -->
 
@@ -122,3 +128,5 @@ mohanedmohamed41@gmail.com - [LinkendIn](https://www.linkedin.com/in/mohaned-moh
 [React-url]: https://reactjs.org/
 [Node.com]: https://img.shields.io/badge/Node.js-18.x-green?style=for-the-badge&logo=node.js&logoColor=white
 [Node-url]: https://nodejs.org/
+[Socket.io]: https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101
+[socket-url]: https://socket.io/
