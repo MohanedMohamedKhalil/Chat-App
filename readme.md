@@ -2,8 +2,8 @@
 <div align="center">
   <h1 align="center">Live Chat App</h1>
   <q align="center">
-  <img src="./client-side/public/favicon-32x32.png" style="width:200px">
-   By : Mohaned Mohamed
+  <img src="./client-side/public/favicon.ico" style="width:200px">
+  
    </q>
 </div>
 
