@@ -1,9 +1,9 @@
 <br />
 <div align="center">
   <h1 align="center">Live Chat App</h1>
-  <q align="center">
+  <p align="center">
   <img src="./chatIcon.png" style="width:150px">
-   </q>
+   </p>
 </div>
 
 <details>
@@ -31,7 +31,7 @@
 
 ## About The Project
 
-![Practice Page](./Chat.png)
+![](./Chat.png)
 
 Live Chat App where you can send and recieve messages from different users at the same room
 made by React , NodeJs , Socket.io
