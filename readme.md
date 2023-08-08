@@ -2,8 +2,7 @@
 <div align="center">
   <h1 align="center">Live Chat App</h1>
   <q align="center">
-  <img src="./client-side/public/favicon.ico" style="width:200px">
-  
+  <img src="./chatIcon.png" style="width:150px">
    </q>
 </div>
 
